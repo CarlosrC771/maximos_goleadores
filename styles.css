@@ -1,0 +1,99 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Encabezado */
+header {
+    background-color: #0066b2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+/* Imagen principal */
+.main-image img {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+/* Contenido principal */
+main {
+    padding: 20px;
+}
+
+.player {
+    padding: 20px;
+    text-align: center;
+
+    text-align:justify;
+    margin: 20px 120px 20px 120px;
+}
+
+.player h2 {
+    color: #0066b2;
+    margin-bottom: 10px;
+}
+
+.player img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.player p {
+    text-align: justify;
+    margin: 10px 0;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+.container{
+    max-width: 100%;
+   background-color: rgb(235, 234, 234);
+    margin: 0px 90px 80px 80px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.089);    
+}
+
+
+.texte_encabezado{
+    text-align:justify;
+    margin: 20px 120px 20px 120px;
+}
+
+
+.linea_roja{
+    border: 0;
+    border-bottom: 1px solid #f12c4b;
+    height: 1px;
+    margin-bottom: 2rem;
+    margin: 20px 120px 20px 120px;
+}
+
+
+span{
+    color: #000000;
+    font-weight: bold;
+}
